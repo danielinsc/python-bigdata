@@ -6,7 +6,7 @@ O programa principal deve pedir os valores e usar a função para calcular a ár
 
 B = float(input('Qual o valor da base maior? '))
 b = float(input('Qual o valor da base menor? '))
-c = float(input('Qual o valor da altura? '))
+h = float(input('Qual o valor da altura? '))
 a = 2
 
 formula = ((B = b) * h) / a
