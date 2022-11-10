@@ -9,6 +9,6 @@ b = float(input('Qual o valor da base menor? '))
 h = float(input('Qual o valor da altura? '))
 a = 2
 
-formula = ((B = b) * h) / a
+formula = ((B + b) * h) / a
 
 print("A área do trapézio é: ", formula)
